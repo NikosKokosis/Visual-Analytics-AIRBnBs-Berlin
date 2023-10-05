@@ -6,7 +6,6 @@
 - **[Project Highlights](#project-highlights)**
 - **[Project Structure](#project-structure)**
 - **[Conclusions](#conclusions)**
-- **[Findings](#findings)**
 - **[Dependencies](#dependencies)**
 
 ## Project Overview
